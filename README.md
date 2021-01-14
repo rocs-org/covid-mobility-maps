@@ -4,6 +4,6 @@ The maps in /figures/germany-maps/ depict the mobility change in Germany by cale
 
 Text to accompany graphic:
 
-> Die Karte zeigt die relative Änderung der Anzahl an Bewegungen in den jeweiligen Landkreisen, verglichen mit dem gleichen Zeitraum aus dem Vorjahr. Insgesamt lag die Mobilität in Deutschland in KW X um Y% über/unter der des Vorjahrs. Eine interaktive Visualisierung und mehr Informationen finden sich unter https://www.covid-19-mobility.org/de/ <https://www.covid-19-mobility.org/>
+> Die Karte zeigt die relative Änderung der Anzahl an Bewegungen in den jeweiligen Landkreisen, verglichen mit dem gleichen Zeitraum aus 2019. Insgesamt lag die Mobilität in Deutschland in KW X um Y% über/unter der von 2019. Eine interaktive Visualisierung und mehr Informationen finden sich unter https://www.covid-19-mobility.org/de/ <https://www.covid-19-mobility.org/>
 
 Contact: frank.schlosser@hu-berlin.de
